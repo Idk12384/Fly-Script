@@ -1,5 +1,5 @@
 --[[
-Flight Script v1.0
+Fly Script v1.0
 Copyright (c) 2025 [realjaafan/911isgoo7]. Licensed under MIT.
 --]]
 
